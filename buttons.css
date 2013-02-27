@@ -44,6 +44,10 @@
     background-position:-58px 0;
 }
 
+.l-odkl .l-ico {
+    background-image: url("./images/odn-icon.png");
+}
+
 .like .l-count {
     vertical-align:middle;
     line-height:24px;
